@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+ul, ol, a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+ul:link, ol:link a:link {
+    text-decoration: none;
+    color: white;
+}
